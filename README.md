@@ -1,4 +1,4 @@
-# lurthu
+job application tracking system
 
 video or  documents or link 
 
